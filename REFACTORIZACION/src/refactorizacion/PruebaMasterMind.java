@@ -10,6 +10,7 @@ public class PruebaMasterMind {
 		MasterMind mm2 = new MasterMind();
 		
 		System.out.println("hola");
+		System.out.println("subimos a github");
 		
 		mm1.verCombinacion();
 		mm1.jugar();
