@@ -11,6 +11,7 @@ public class PruebaMasterMind {
 		
 		System.out.println("hola");
 		System.out.println("subimos a github");
+		System.out.println("se ha subido correctamente");
 		
 		mm1.verCombinacion();
 		mm1.jugar();
