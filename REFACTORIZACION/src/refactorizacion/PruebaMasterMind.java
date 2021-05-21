@@ -9,6 +9,8 @@ public class PruebaMasterMind {
 		MasterMind mm1 = new MasterMind();
 		MasterMind mm2 = new MasterMind();
 		
+		System.out.println("hola");
+		
 		mm1.verCombinacion();
 		mm1.jugar();
 		
